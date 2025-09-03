@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "prompt": "Summarize this paper:",
+    "paper": "Very long paper text here..."
+  },
+  {
+    "id": 2,
+    "prompt": "Extract key insights from this paper:",
+    "paper": "Another very long paper..."
+  }
+]
